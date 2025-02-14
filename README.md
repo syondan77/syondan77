@@ -54,7 +54,7 @@ Currently, I'm sharpening my **Data Structures & Algorithms (DSA)** skills to im
 <a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/" target="_blank">
+<a href="https://dev.to/dhanushpm" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/dhanush-penumaka-2ba20116b/" target="_blank">
