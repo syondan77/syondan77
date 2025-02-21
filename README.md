@@ -1,6 +1,6 @@
 ## Hey yeah!! 👋
 
-🚀 **Backend Developer | Java | Spring Boot | Kafka | DSA Enthusiast**
+💻 **Backend Developer | Java | Spring Boot | Kafka | DSA Enthusiast**
 
 ---
 
